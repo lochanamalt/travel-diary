@@ -1,4 +1,4 @@
-import globeLogo from '../assets/globe.svg'
+import globeLogo from '/globe.svg'
 
 function Navbar(){
     return <nav className='nav'>
